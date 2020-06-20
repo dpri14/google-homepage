@@ -1,0 +1,72 @@
+.topnav {
+  background-color: white;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 1px 4px;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+  
+}
+.topnav-right {
+  float: right;
+}
+.topnav-right-sign-in {
+  float: right;
+  background-color: #0080FF;
+  padding: 1px 2px;
+}
+.center {
+  position: relative;
+  left: 40%;
+  top: 100px;
+}
+.text-center {
+  position: relative;
+  left: 35%;
+  top: 110px;
+}
+.text-center input {
+  width: 420px;
+  height: 25px;
+  border-radius: 15px;
+}
+.button {
+  background-color: rgb(241, 241, 241);
+  border: none;
+  color: black;
+  padding: 13px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+  position: relative;
+  left: 39%;
+  top: 130px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(241, 241, 241);
+  overflow: hidden;
+ 
+}
+.footer a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 6px 14px;
+  bottom: 200px;
+  text-decoration: none;
+  border-bottom: 3px solid transparent;
+}
+.footer-right {
+  float: right;
+}
